@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Kh-Battambang";
+  src: url("./fonts/Kh-Battambang.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Kh-Battambang.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Kh-Battambang.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Kh-Battambang.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Kh-Battambang.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Kh-Battambang.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Kh-Battambang.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
